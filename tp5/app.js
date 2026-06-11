@@ -22,3 +22,10 @@ let precio2= 15
 let precio3= 20
  let total = precio1+ precio2 + precio3
 console.log(  "el total a pagar es"+ total)
+
+let comidaFavorita= bañacauda
+let colorFavorito=  blanco
+let numeroFavorito= 5
+
+console.log (" mi comida favorita es la " + comidaFavorita + ", me gusta el color "  + colorFavorito  +  "y mi numero favorito es el "  + numeroFavorito)
+
