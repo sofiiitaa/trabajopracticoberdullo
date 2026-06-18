@@ -29,3 +29,8 @@ let numeroFavorito= 5
 
 console.log (" mi comida favorita es la " + comidaFavorita + ", me gusta el color "  + colorFavorito  +  "y mi numero favorito es el "  + numeroFavorito)
 
+ let titulo = document.querySelector('h1')
+ let botton =documemnt.querySelector('button')
+
+b
+
