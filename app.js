@@ -1,9 +1,0 @@
-let titulo = document.querySelector("BOTON2")
-let body = document.querySelector( "body")
-let Parrafo = document.querySelector("p")
-let boton1 = document.querySelector("BOTON1")
-let boton2 = document.querySelector("BOTON2")
-let boton3 = document.querySelector("BOTON3")
-let boton4 = document.querySelector("BOTON4")
-boton1.onclick = Function
-body.backgroundcolor ="white"
