@@ -20,7 +20,25 @@ botoneje2.onclick = function () {
         ejercicio2.textContent = "Bienvenido Nahuel,como estas?"
 
     }
-    else {
-
+    else {ejercicio2.textContent ="Bienvenido usuario"          
     }
 }
+ let nombredeusuario ="marcos" + "nahuel"
+ let ejercicio3 = document.querySelector("#eje3")
+ let botoneje3 = document.querySelector("#eje")
+ 
+ botoneje3.onclick = function(){
+if (nombredeusuario = " marcos" +"nahuel"){
+ejercicio3.textContent= "bienvenido marcos" +"bienvenido nahuel"
+}                    
+else{ ejercicio3.textContent ="bienvenido usuario"
+
+
+
+
+}
+
+
+
+
+ }
