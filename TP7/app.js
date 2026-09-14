@@ -1,4 +1,4 @@
-let ejercicio1 = document.querySelector("#eje1")
+/*let ejercicio1 = document.querySelector("#eje1")
 let botoneje1 = document.querySelector("#botonEje1")
 let edad = 26
 
@@ -80,4 +80,21 @@ botoneje7.onclick = function () {
 
 
     }
+}
+
+*/
+let parrafo = document.querySelector ("#ejercicioP")
+let botonP = document.querySelector ("#EjP")
+let galletitas = 0
+
+botonP.onclick = function (){
+    galletitas = galletitas + 1
+    parrafo.textContent = galletitas
+if (galletitas < 10) {
+    parrafo.style.color = "green"
+} else if ((galletitas >= 10) && (galletitas <= 20)){
+    parrafo.style.color = "yellow"
+} else {
+    parrafo.style.color = "red"
+}
 }
