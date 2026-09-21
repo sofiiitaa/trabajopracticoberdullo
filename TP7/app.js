@@ -1,4 +1,4 @@
-/*let ejercicio1 = document.querySelector("#eje1")
+let ejercicio1 = document.querySelector("#eje1")
 let botoneje1 = document.querySelector("#botonEje1")
 let edad = 26
 
@@ -82,7 +82,6 @@ botoneje7.onclick = function () {
     }
 }
 
-*/
 let parrafo = document.querySelector ("#ejercicioP")
 let botonP = document.querySelector ("#EjP")
 let galletitas = 0
