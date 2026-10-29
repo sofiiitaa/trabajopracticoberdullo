@@ -1,11 +1,9 @@
-/*
-funciones:
-*/
-boton1.onclick()
-let n = 5
-function cuadrado(numero){
-    let resultado = numero * numero
-return resultado 
-
-
+function viaje(anio,montos) {
+    let resultado
+    if (anio >=2026) {
+        resultado =monto *1.03
+    } else {
+        resultado = monto
+    }
+    return =resultado
 }
